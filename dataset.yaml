@@ -1,0 +1,8 @@
+# dataset.yaml
+train: /mnt/local/o.bobylev/datasets/upload folder/train
+val: /mnt/local/o.bobylev/datasets/upload folder/val
+
+# number of classes
+nc: 2
+# class names
+names: ['input_field', 'checkbox']
