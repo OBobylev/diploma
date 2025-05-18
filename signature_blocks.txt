@@ -1,0 +1,25 @@
+\textbf{Signature:}\underline{\hspace{7cm}}
+
+
+
+\textbf{Signature:}\underline{\hspace{5cm}} $\square$ Confirm
+
+
+
+\textbf{Approval}\underline{\hspace{6cm}} $\square$ Approve $\square$ Reject
+
+
+
+\textbf{Signature:}\underline{\hspace{5cm}} \hfill \textbf{Date:} \underline{\hspace{4cm}}
+
+
+
+\textbf{Authorized Signatures:}\underline{\hspace{4cm}} \hfill \underline{\hspace{4cm}}
+
+
+
+\textbf{Digital Confirmation:} $\square$ Accepted $\square$ Declined
+
+
+
+\textbf{Supervisor:}\underline{\hspace{5cm}} \hfill \textbf{Reviewed:} $\square$

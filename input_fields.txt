@@ -1,0 +1,36 @@
+\textbf{Name:}\underline{\hspace{5cm}}
+
+
+
+\textbf{Date:}\underline{\hspace{4cm}}
+
+
+
+\textbf{Address:}\underline{\hspace{8cm}}
+
+
+
+\textbf{Phone:}\underline{\hspace{4cm}}\textbf{     User understands private data usage} $\square$
+
+
+\textbf{E-mail:}\underline{\hspace{6cm}}
+
+
+
+\textbf{Gender:}$\square$ Male $\square$ Female $\square$ Other
+
+
+
+\textbf{City:}\underline{\hspace{5cm}}
+
+
+
+\textbf{Nationality:}\underline{\hspace{5cm}}"
+
+
+
+\textbf{Marital Status: }$\square$ Single $\square$ Married $\square$ Other
+
+
+
+\textbf{Employment Status: }$\square$ Employed $\square$ Unemployed $\square$ Student

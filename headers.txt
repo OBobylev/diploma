@@ -1,0 +1,100 @@
+\documentclass[12pt]{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{hyperref}
+\usepackage{geometry}
+\geometry{margin=1in}
+\title{Official Document}
+\author{AutoDocGen}
+\date{\today}
+\begin{document}
+\maketitle
+
+
+
+\documentclass[11pt]{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{hyperref}
+\usepackage{geometry}
+\geometry{margin=1in}
+\title{Confidential Report}
+\author{Generated Document}
+\date{\today}
+\begin{document}
+\maketitle
+
+
+
+\documentclass[10pt]{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{hyperref}
+\usepackage{geometry}
+\geometry{margin=1in}
+\title{Business Form}
+\author{Document Generator}
+\date{\today}
+\begin{document}
+\maketitle
+
+
+
+\documentclass[12pt]{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{hyperref}
+\usepackage{geometry}
+\geometry{margin=1in}
+\title{Project Report}
+\author{Technical Documents}
+\date{\today}
+\begin{document}
+\maketitle
+
+
+
+\documentclass[10pt]{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{hyperref}
+\usepackage{geometry}
+\geometry{margin=1in}
+\title{Internal E-Mail}
+\author{Company Nemos}
+\date{\today}
+\begin{document}
+\maketitle
+
+
+
+\documentclass[11pt]{article}
+\usepackage{amsmath, amssymb, hyperref, geometry}
+\geometry{margin=1in}
+\title{User Feedback Report}
+\author{AutoDoc Engine}
+\date{\today}
+\begin{document}
+\maketitle
+
+
+
+\documentclass[12pt]{article}
+\usepackage{amsmath, amssymb, geometry}
+\geometry{margin=1in}
+\title{Onboarding Form}
+\author{Human-Resource Tools}
+\date{\today}
+\begin{document}
+\maketitle
+
+
+
+\documentclass[11pt]{article}
+\usepackage{amsmath, amssymb, geometry}
+\geometry{margin=1in}
+\title{Financial Statement}
+\author{Finance Suite}
+\date{\today}
+\begin{document}
+\maketitle

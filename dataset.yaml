@@ -1,8 +1,8 @@
 # dataset.yaml
-train: /mnt/local/o.bobylev/datasets/upload folder/train
-val: /mnt/local/o.bobylev/datasets/upload folder/val
+train: /Users/user/venv/Yadro_dataset_generator/doc_parts/test
+val: /Users/user/venv/Yadro_dataset_generator/doc_parts/val
 
 # number of classes
-nc: 2
+nc: 3
 # class names
-names: ['input_field', 'checkbox']
+names: ['word', 'checkbox', 'input_line']
